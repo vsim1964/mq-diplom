@@ -156,6 +156,18 @@
   }
 }
 
+@media only screen and (min-width: 641px) and (max-width: 1200px) and (orientation: landscape) {
+  .trends-item {
+    width: 24.75%;
+  }
+}
+
+@media only screen and (max-width: 640px) and (orientation: landscape) {
+  .trends-item {
+    width: 49.5%;
+  }
+}
+
 @media (max-width: 640px) {
   .header-styles {
     max-width: 640px;
