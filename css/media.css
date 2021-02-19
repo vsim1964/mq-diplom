@@ -317,14 +317,6 @@
   .products-item {
     margin: 0 auto;
     width: 100%;
-    margin-top: 41%;
-  }
-
-  .products-item:nth-child(1) {
-    margin-top: 12em;
-  }
-
-  .products-item:nth-child(3) {
     margin-top: 13em;
   }
 
