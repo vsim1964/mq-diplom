@@ -174,7 +174,10 @@
   }
    .tags-anonse-item a {
       font-size: 14px;
-}
+  }
+     .article-title a {
+      font-size: 14px;   
+  }
 }
 
 
