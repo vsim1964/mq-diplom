@@ -160,7 +160,24 @@
   .trends-item {
     width: 24.75%;
   }
+  .trends-item:nth-child(1), .trends-item:nth-child(2) {
+    margin-bottom: 0;
 }
+}
+
+@media (max-width: 900px) and (orientation: landscape) {
+  .trends-item-heading {
+      padding: 0.5em;
+  }
+  .trends-skin {
+    padding: 29% 1em 1em 1em;
+  }
+   .tags-anonse-item a {
+      font-size: 14px;
+}
+}
+
+
 
 @media (max-width: 640px) {
   .header-styles {
