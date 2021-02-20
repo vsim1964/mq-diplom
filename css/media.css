@@ -396,7 +396,7 @@
     content: "";
     display: block;
     width: 86.5%;
-    height: mobile
+    height: 79%;
     background-image: url(../images/shop-item-mobile3.jpg);
     background-repeat: no-repeat;
     background-position: center left -5%;
@@ -422,18 +422,18 @@
   }
 
   .popup-form {
-    width: 64%;
-    height: 37em;
-    position: absolute;
-    top: 10%;
-    left: 18%;
-    right: 18%;
-    bottom: 0;
-    transform: translate(0%, 0%);
-    margin: 5% 18%;
-    padding: 55px 30px 50px;
-    box-sizing: border-box;
-    background-color: #ffffff;
+   width: 90%;
+   height: 37em;
+   position: absolute;
+   top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+transform: translate(5%, 10%);
+margin: 0;
+padding: 55px 30px 50px;
+box-sizing: border-box;
+background-color: #ffffff; 
   }
 }
 
