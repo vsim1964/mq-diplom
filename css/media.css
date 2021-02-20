@@ -90,7 +90,6 @@
     margin-top: 13em;
   }
 
-
   .search-group {
     width: 100%;
   }
@@ -177,7 +176,7 @@
   .popup-form {
     width: 64%;
     height: 37em;
-    position: sticky;
+    position: absolute;
     top: 10%;
     left: 18%;
     right: 18%;
@@ -425,7 +424,7 @@
   .popup-form {
     width: 64%;
     height: 37em;
-    position: sticky;
+    position: absolute;
     top: 10%;
     left: 18%;
     right: 18%;
