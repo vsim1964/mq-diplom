@@ -323,6 +323,10 @@
   .products-card {
     width: 100%;
   }
+  
+  .products-item:nth-child(1) {
+    margin-right: 6%;
+  }
 
   .products-item:nth-child(1)::before {
     background-image: url(../images/shop-item-mobile1.jpg);
